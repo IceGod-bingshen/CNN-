@@ -1,0 +1,2 @@
+# CNN-
+这是1个使用python可以在pycharm和vscode中运行的多位数识别的程序，使用前请安装好解释器
